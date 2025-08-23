@@ -1,0 +1,7 @@
+{
+  "TableName": "MyProjectTable",
+  "PrimaryKey": "UserID",
+  "SortKey": null,
+  "BillingMode": "PAY_PER_REQUEST",
+  "Indexes": []
+}
