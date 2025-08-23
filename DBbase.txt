@@ -1,0 +1,6 @@
+/project-root
+  /dynamodb
+    ├── README.md
+    ├── schema.json      # docs of table structure
+    ├── init.py          # or index.js depending on language
+    ├── example_put_item.py
